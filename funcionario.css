@@ -1,0 +1,167 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+body{
+	background: green;
+}
+.cad{
+	font-family: arial;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+
+}
+.cad-green{
+	background: green;
+	color: #fff;
+	box-shadow: 0 5px 0 #006000;
+
+}
+.cad-green:hover{
+	background: #006000;
+	color: #fff;
+	box-shadow: 0 5px 0 #003f00;
+}
+.cad-green:active{
+	position: relative;
+	top: 5px;
+	box-shadow: none;
+}
+.atu{
+	font-family: arial;
+	font-size: 14px;
+	text-transform: uppercase;	
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+}
+.atu-verde{
+	background: green;
+	color: #fff;
+	box-shadow: 0 5px 0 #006000;
+}
+.atu-verde:hover{
+	background: #006000;
+	color: #fff
+	box-shadow: 0 5px 0 #003f00;
+}
+.atu-verde:active{
+	position: relative;
+	top: 5px;
+	box-shadow: none;
+
+}
+.apa{
+	font-family: arial;
+	font-size: 14px;
+	text-transform: uppercase;	
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+}
+.apa-1{
+	background: green;
+	color: #fff;
+	box-shadow: 0 5px 0 #006000;
+}
+.apa-1:hover{
+	background: #006000;
+	color: #fff
+	box-shadow: 0 5px 0 #003f00;
+}
+.apa-1:active{
+	position: relative;
+	top: 5px;
+	box-shadow: none;
+
+}
+.can{
+	font-family: arial;
+	font-size: 14px;
+	text-transform: uppercase;	
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+}
+.can-2{
+	background: green;
+	color: #fff;
+	box-shadow: 0 5px 0 #006000;
+}
+.can-2:hover{
+	background: #006000;
+	color: #fff
+	box-shadow: 0 5px 0 #003f00;
+}
+.can-2:active{
+	position: relative;
+	top: 5px;
+	box-shadow: none;
+
+}
+.pes{
+	font-family: arial;
+	font-size: 14px;
+	text-transform: uppercase;	
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+}
+.pes-pes{
+	background: green;
+	color: #fff;
+	box-shadow: 0 5px 0 #006000;
+}
+.pes-pes:hover{
+	background: #006000;
+	color: #fff
+	box-shadow: 0 5px 0 #003f00;
+}
+.pes-pes:active{
+	position: relative;
+	top: 5px;
+	box-shadow: none;
+
+}
+form{
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 150px;
+  
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+h1{
+	font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	padding: 1px;
+}
+.rodape button{
+	font-family: "Roboto", ;
+  text-transform: uppercase;  
+   width: 50%;
+  border: 0;
+  padding: 10px;
+  color: #FFFFFF;
+  font-size: 14px;
+ 
+  cursor: pointer; 
+}
